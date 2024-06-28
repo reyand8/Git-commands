@@ -1,1 +1,1 @@
-console.log('Hi!')
+const name = 'Nade'
